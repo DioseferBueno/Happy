@@ -1,0 +1,1 @@
+Parte responsável pelo back-end da aplicação
